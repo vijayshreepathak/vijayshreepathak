@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="400" alt="Coding in Action">
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVyN3dueDB0MHl4djhvYTM2bDA3M2F4aGF4M2xmOWh1amxhN2d4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding in Action">
 </p>
 
 ---
