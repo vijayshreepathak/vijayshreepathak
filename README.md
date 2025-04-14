@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Crazy Coder">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="400" alt="Coding in Action">
 </p>
 
+---
 
 ### 💼 Experience
 
@@ -23,6 +24,7 @@
   - Leveraged AI to boost restaurant walk‑ins by 25% & organic visibility by 80%.  
   - Built strategic partnerships & client relationships to fuel Cube’s market expansion.
 
+---
 
 ### 🌟 Featured Projects
 
@@ -49,6 +51,7 @@
 - **Order Management & Trading System**  
   Engineered a high‑performance order execution & real‑time market data management system (Trading System) using C++ & WebSocket.
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -56,6 +59,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,react,nextjs,solidity,mysql,aws,gcp,git,arduino,linux" />
 </p>
 
+---
 
 ### 🏆 Achievements
 
@@ -64,10 +68,7 @@
 - 🥉 **SmartHack Innovate 2025** – Innovation Award  
 - 🎯 Finalist – AlgoUniversity Fellowship, IIM Lucknow Udyam, Bull’s Eye AR Challenge  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="250" alt="Award Celebration">
-</p>
-
+---
 
 ### 🎓 Certifications
 
@@ -78,6 +79,7 @@
 - Google Cloud Digital Leader Professional  
 - Advanced C++ Programming Excellence  
 
+---
 
 ### 📈 GitHub Stats & Trophies
 
@@ -90,6 +92,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vijayshreepathak&theme=onedark&column=6" />
 </p>
 
+---
 
 ### 🌐 Connect With Me
 
@@ -101,6 +104,7 @@
   <a href="https://www.naukri.com/code360/profile/vijayshree"><img src="https://img.shields.io/badge/-Code%20Portfolio-orange?style=for-the-badge"></a>
 </p>
 
+---
 
 ### 💌 Recruiters, Let’s Talk!
 
@@ -113,3 +117,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=100&section=footer"/>
 </p>
+```
