@@ -2,114 +2,141 @@
 <h3 align="center">7x National Hackathon Winner | Software Engineer | AR Lens Creator | Blockchain Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=900&lines=AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding in Action" />
+  <img src="https://komarev.com/ghpvc/?username=vijayshreepathak&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</div>
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-- **Snap Inc** (Remote)  
-  _AR & Software Development Extern_ | Sept 2024 – Nov 2024  
-  - Conceptualized & launched two viral AR lenses on Snapchat (98% play rate, 100K+ users), analyzed drop‑off reasons.  
-  - Secured top 0.1% globally for AR/SDE externship—recognized for exceptional AR innovation.  
-  - Designed, developed & tested immersive AR experiences with 2D/3D assets & digital storytelling.
-
-- **Cube** (Remote)  
-  _Business Development Intern_ | Apr 2024 – Aug 2024  
-  - Leveraged AI to boost restaurant walk‑ins by 25% & organic visibility by 80%.  
-  - Built strategic partnerships & client relationships to fuel Cube’s market expansion.
+<details open>
+  <summary><h3>📋 My Work Journey</h3></summary>
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60"/></td>
+      <td>
+        <b>Snap Inc</b> (Remote)<br/>
+        <i>AR & Software Development Extern</i> | Sept 2024 – Nov 2024<br/>
+        • Conceptualized & launched two viral AR lenses (98% play rate, 100K+ users)<br/>
+        • Secured top 0.1% globally for AR/SDE externship<br/>
+        • Designed immersive AR experiences with 2D/3D assets
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://media.giphy.com/media/gRYfePeFSWis2Z3sRt/giphy.gif" width="60"/></td>
+      <td>
+        <b>Cube</b> (Remote)<br/>
+        <i>Business Development Intern</i> | Apr 2024 – Aug 2024<br/>
+        • Leveraged AI to boost restaurant walk-ins by 25% & visibility by 80%<br/>
+        • Built strategic partnerships to fuel market expansion
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
 ### 🌟 Featured Projects
 
-<table>
-<tr>
-  <td align="center">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/><br/>
-    <b>FinSafe-AI</b><br/>
-    AI-powered fraud detection with Blockchain & ML
-  </td>
-  <td align="center">
-    <img src="https://media.giphy.com/media/JtBZmP6AnDeaY/giphy.gif" width="200"/><br/>
-    <b>PowerMonitor</b><br/>
-    Real-time CPU & memory energy tracker
-  </td>
-  <td align="center">
-    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200"/><br/>
-    <b>Snap AR Lenses</b><br/>
-    100K+ users | Viral AR experiences
-  </td>
-</tr>
-</table>
-
-- **Order Management & Trading System**  
-  Engineered a high‑performance order execution & real‑time market data management system (Trading System) using C++ & WebSocket.
+<details open>
+  <summary><h3>🚀 My Creations</h3></summary>
+  <div align="center">
+    <a href="https://github.com/vijayshreepathak/finsafe-ai">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" height="180" alt="FinSafe-AI"/>
+      <br/>
+      <b>FinSafe-AI</b><br/>AI-powered fraud detection with Blockchain & ML
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/vijayshreepathak/powermonitor">
+      <img src="https://media.giphy.com/media/JtBZmP6AnDeaY/giphy.gif" width="180" height="180" alt="PowerMonitor"/>
+      <br/>
+      <b>PowerMonitor</b><br/>Real-time CPU & memory energy tracker
+    </a>&nbsp;&nbsp;
+    <a href="https://lensstudio.snapchat.com/creator/IofYuFcacFydyVc3CI2_pw">
+      <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="180" height="180" alt="Snap AR Lenses"/>
+      <br/>
+      <b>Snap AR Lenses</b><br/>100K+ users | Viral AR experiences
+    </a>
+  </div>
+</details>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,react,nextjs,solidity,mysql,aws,gcp,git,arduino,linux" />
-</p>
+<details open>
+  <summary><h3>🔧 My Toolbox</h3></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,react,nextjs,solidity,mysql,aws,gcp,git,arduino,linux&perline=6" />
+    <br/>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+  </p>
+</details>
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **StartupThon 2025** – All India Rank 1  
-- 🥈 **National FinTech Hackathon** – Top 5 (Cybersecurity)  
-- 🥉 **SmartHack Innovate 2025** – Innovation Award  
-- 🎯 Finalist – AlgoUniversity Fellowship, IIM Lucknow Udyam, Bull’s Eye AR Challenge  
+<details open>
+  <summary><h3>🥇 Hackathons & Competitions</h3></summary>
+  <p align="center">
+    - National Winner at **StartupThon** (Jan 2025)  
+    - **National FinTech Hackathon** Top 5 Winner (Feb 2025)  
+    - Finalist at **Bull's Eye Competition** (Dec 2024)  
+    - **Algo University Tech Fellowship** Finalist  
+    - **Smart Hackathon Innovate** Award Winner (Mar 2025)  
+    - **IIM Lucknow Udyam Insight Competition** Finalist (Nov 2024)
+  </p>
+</details>
 
 ---
 
 ### 🎓 Certifications
 
-- Certificate of Excellence: Advanced Data Structures & Algorithms  
-- Elite Competitive Programming Completion – DSA  
-- Tesla Stock Price Prediction & Financial Modeling  
-- 2024 Snap AR Challenge Certified Developer  
-- Google Cloud Digital Leader Professional  
-- Advanced C++ Programming Excellence  
+<details open>
+  <summary><h3>📜 My Learning Journey</h3></summary>
+  - Certificate of Excellence: Advanced Data Structures & Algorithms Mastery  
+  - Elite Competitive Programming Completion Certification - DSA  
+  - Tesla Stock Price Prediction & Financial Modeling Certification  
+  - Google Cloud Digital Leader Professional Certification  
+  - Advanced C++ Programming Excellence Certification  
+</details>
 
 ---
 
-### 📈 GitHub Stats & Trophies
+### 📈 GitHub Stats & Activity
 
+<details open>
+  <summary><h3>📊 My GitHub Metrics</h3></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayshreepathak&show_icons=true&theme=midnight-purple" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshreepathak&layout=compact&theme=midnight-purple" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vijayshreepathak&show_icons=true&theme=radical" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayshreepathak&theme=radical" width="49%" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshreepathak&layout=compact&theme=radical" width="44%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vijayshreepathak&theme=radical&column=3&row=2" width="54%" />
+</p>
+<p align="center">
+    <!-- Snake animation -->
+    ![Snake animation](https://raw.githubusercontent.com/vijayshreepathak/vijayshreepathak/output/github-contribution-grid-snake.svg)
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijayshreepathak&theme=onedark&column=6" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:vijayshree9646@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vijayshreevaibhav"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/vijayshreepathak"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://lensstudio.snapchat.com/creator/IofYuFcacFydyVc3CI2_pw"><img src="https://img.shields.io/badge/-Lens%20Studio-yellow?style=for-the-badge&logo=snapchat&logoColor=black"></a>
-  <a href="https://www.naukri.com/code360/profile/vijayshree"><img src="https://img.shields.io/badge/-Code%20Portfolio-orange?style=for-the-badge"></a>
-</p>
+<p align=center">🎶 Spotify Now Playing: [Dynamic Content]</p>
 
 ---
 
 ### 💌 Recruiters, Let’s Talk!
 
-📬 **Email**: vijayshree9646@gmail.com  
-📍 **Location**: Patiala, India  
+📬 *Email*: vijayshree9646@gmail.com  
+📍 *Location*: Patiala, India  
 🌈 Open to Internships, Freelance, and Collaboration Opportunities!
 
 ---
