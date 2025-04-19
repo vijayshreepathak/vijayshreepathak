@@ -7,7 +7,9 @@
 
 <!-- Dynamic Typing Animation with Custom Phrases -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=Hackathon+Champion+Developer;MERN+Stack+Developer;1000%2B+Coding+Problems+Solved;7x+National+Hackathon+Winner;AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=Hackathon+Champion+Developer;MERN+Stack+Developer;1000%2B+Coding+Problems+Solved;7x+National+Hackathon+Winner;AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Enhanced Profile Stats Row -->
@@ -32,6 +34,7 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td width="100px" align="center" style="border: none;">
+        <!-- Using the official Thapar Institute logo -->
         <img src="https://upload.wikimedia.org/wikipedia/en/e/e9/Thapar_Institute_of_Engineering_and_Technology_logo.png" width="80" height="80" alt="Thapar Institute">
       </td>
       <td style="border: none;">
@@ -72,7 +75,8 @@
     <!-- Snap Inc Experience -->
     <tr>
       <td width="80px" align="center" style="padding-top: 15px; border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png" width="40" height="40" alt="Snap Inc">
+        <!-- Updated Snap Inc Icon from Iconfinder -->
+        <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/snapchat_black_logo_icon_147073.png" width="40" height="40" alt="Snapchat" />
       </td>
       <td style="padding-left: 15px; border-left: 3px solid #3a86ff; border: none;">
         <h3 style="margin-bottom: 5px;">Snap Inc <span style="font-size: 0.8em; color: #888;">(Remote)</span></h3>
@@ -139,18 +143,18 @@
 <!-- Featured Projects Section -->
 <h2 align="center">🌟 Featured Projects</h2>
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <!-- FinSafe-AI -->
+  <!-- FinSafe-AI Project Card -->
   <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #3a86ff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <h3 style="color: #3a86ff;">🔐 FinSafe-AI</h3>
     <p><i>Blockchain Security & AI/ML</i></p>
-    <p style="text-align: justify;">Developed an innovative cybersecurity solution integrating blockchain-based immutable log storage with AI-powered anomaly detection for real-time fraud prevention in financial transactions.</p>
+    <p style="text-align: justify;">Developed an innovative cybersecurity solution that integrates blockchain-based immutable log storage with AI-powered anomaly detection for real-time fraud prevention in financial transactions.</p>
     <p><b>Technologies:</b> Next.js, Solidity, Node.js, Python, Truffle, IPFS, Tailwind CSS</p>
     <a href="https://github.com/vijayshreepathak/FinSafe-AI" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijayshreepathak&repo=FinSafe-AI&theme=tokyonight&border_radius=10&hide_border=true" alt="FinSafe-AI" width="100%" />
     </a>
     <p><b>🏆 Won National FinTech Hackathon - Top 5 (Cybersecurity Track)</b></p>
   </div>
-  <!-- Power Monitor -->
+  <!-- Power Monitor Project Card -->
   <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #8338ec; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <h3 style="color: #8338ec;">⚡ Power Monitor</h3>
     <p><i>Energy Efficiency & Performance Optimization</i></p>
@@ -161,7 +165,7 @@
     </a>
     <p><b>🔍 Reduced energy consumption by 15% in tested applications</b></p>
   </div>
-  <!-- Trading System -->
+  <!-- Trading System Project Card -->
   <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #ff006e; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <h3 style="color: #ff006e;">📈 Order Management & Trading System</h3>
     <p><i>Quantitative Research, Low Latency Systems</i></p>
@@ -172,11 +176,11 @@
     </a>
     <p><b>⏱️ Achieved millisecond-level execution times</b></p>
   </div>
-  <!-- AR Lenses -->
+  <!-- AR Lens Development Project Card -->
   <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #ffbe0b; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <h3 style="color: #ffbe0b;">👓 AR Lens Development</h3>
     <p><i>Augmented Reality, Web Development, Machine Learning</i></p>
-    <p style="text-align: justify;">Developed Snapchat AR Lenses achieving 40K+ and 80K+ plays on launch day. Featured on Snap Spotlight.</p>
+    <p style="text-align: justify;">Developed Snapchat AR Lenses that achieved 40K+ and 80K+ plays on launch day. Featured on Snap Spotlight.</p>
     <p><b>Technologies:</b> Lens Studio, JavaScript, 3D Modeling, Camera Kit</p>
     <a href="https://github.com/vijayshreepathak/SnapARLenses" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijayshreepathak&repo=SnapARLenses&theme=tokyonight&border_radius=10&hide_border=true" alt="SnapARLenses" width="100%" />
