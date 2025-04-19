@@ -6,7 +6,7 @@
 </p>
 
 <!-- Dynamic Typing Animation with Custom Phrases -->
-<p align="center">
+<p align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=Hackathon+Champion+Developer;MERN+Stack+Developer;1000%2B+Coding+Problems+Solved;7x+National+Hackathon+Winner;AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion" alt="Typing SVG" />
   </a>
@@ -354,7 +354,7 @@
 
 <!-- Snake Animation -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/vijayshreepathak/vijayshreepathak/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/vijayshreepathak/vijayshreepathak/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <!-- Footer with Wave Animation -->
