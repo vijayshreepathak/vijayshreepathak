@@ -1,14 +1,22 @@
+<!-- README.md -->
+
+<!-- Centered Intro Section -->
 <div align="center">
   <h1>🚀 Hey, I'm Vijayshree Vaibhav 👩‍💻</h1>
   <h3>7x National Hackathon Winner | Software Engineer | AR Lens Creator | Blockchain Builder</h3>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion+💡" alt="Typing SVG" />
 </div>
 
+<!-- Typing Animation (separated for visibility) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion+💡" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayshreepathak&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<!-- Gifs -->
 <div align="center">
   <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
