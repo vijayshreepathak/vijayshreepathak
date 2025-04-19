@@ -6,7 +6,7 @@
 </p>
 
 <!-- Dynamic Typing Animation with Custom Phrases -->
-<p align="center">  
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=Hackathon+Champion+Developer;MERN+Stack+Developer;1000%2B+Coding+Problems+Solved;7x+National+Hackathon+Winner;AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion" alt="Typing SVG" />
   </a>
@@ -112,9 +112,9 @@
 <h2 align="center">🛠️ Skills & Tools</h2>
 <table align="center" style="border-collapse: collapse; width: 80%; margin: 0 auto; border: none;">
   <tr>
-    <td align="center" style="background-color: rgba(58, 134, 255, 0.1); border-radius: 10px; padding: 8px;"><strong>Languages</strong></td>
-    <td align="center" style="background-color: rgba(131, 56, 236, 0.1); border-radius: 10px; padding: 8px;"><strong>Frameworks</strong></td>
-    <td align="center" style="background-color: rgba(255, 0, 110, 0.1); border-radius: 10px; padding: 8px;"><strong>Tools & Platforms</strong></td>
+    <td align="center" style="background-color: rgba(58,134,255,0.1); border-radius: 10px; padding: 8px;"><strong>Languages</strong></td>
+    <td align="center" style="background-color: rgba(131,56,236,0.1); border-radius: 10px; padding: 8px;"><strong>Frameworks</strong></td>
+    <td align="center" style="background-color: rgba(255,0,110,0.1); border-radius: 10px; padding: 8px;"><strong>Tools & Platforms</strong></td>
   </tr>
   <tr>
     <td style="border: none;">
@@ -144,7 +144,7 @@
 <h2 align="center">🌟 Featured Projects</h2>
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <!-- FinSafe-AI Project Card -->
-  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #3a86ff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #3a86ff; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <h3 style="color: #3a86ff;">🔐 FinSafe-AI</h3>
     <p><i>Blockchain Security & AI/ML</i></p>
     <p style="text-align: justify;">Developed an innovative cybersecurity solution that integrates blockchain-based immutable log storage with AI-powered anomaly detection for real-time fraud prevention in financial transactions.</p>
@@ -155,7 +155,7 @@
     <p><b>🏆 Won National FinTech Hackathon - Top 5 (Cybersecurity Track)</b></p>
   </div>
   <!-- Power Monitor Project Card -->
-  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #8338ec; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #8338ec; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <h3 style="color: #8338ec;">⚡ Power Monitor</h3>
     <p><i>Energy Efficiency & Performance Optimization</i></p>
     <p style="text-align: justify;">Engineered a Python-based tool that precisely measures application-level power consumption using TDP-based modeling, enabling developers to optimize software for energy efficiency.</p>
@@ -166,7 +166,7 @@
     <p><b>🔍 Reduced energy consumption by 15% in tested applications</b></p>
   </div>
   <!-- Trading System Project Card -->
-  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #ff006e; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #ff006e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <h3 style="color: #ff006e;">📈 Order Management & Trading System</h3>
     <p><i>Quantitative Research, Low Latency Systems</i></p>
     <p style="text-align: justify;">Engineered a high-performance order execution and real-time market data management system using C++ for the Deribit Test Platform; improved execution speed by 40%.</p>
@@ -177,7 +177,7 @@
     <p><b>⏱️ Achieved millisecond-level execution times</b></p>
   </div>
   <!-- AR Lens Development Project Card -->
-  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #ffbe0b; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <div style="background-color: #161b22; border-radius: 10px; padding: 20px; border-left: 5px solid #ffbe0b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <h3 style="color: #ffbe0b;">👓 AR Lens Development</h3>
     <p><i>Augmented Reality, Web Development, Machine Learning</i></p>
     <p style="text-align: justify;">Developed Snapchat AR Lenses that achieved 40K+ and 80K+ plays on launch day. Featured on Snap Spotlight.</p>
@@ -213,7 +213,7 @@
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; margin: 0 auto; border: none;">
     <tr>
-      <td align="center" width="33%" style="padding: 15px; background-color: rgba(255, 107, 107, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="33%" style="padding: 15px; background-color: rgba(255,107,107,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/prize.png" width="50" height="50" alt="First Place">
         <h3>StartupThon 2025</h3>
         <p><b>🥇 All India Rank 1</b></p>
@@ -222,7 +222,7 @@
           <img src="https://img.shields.io/badge/View_Certificate-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white" alt="Certificate" />
         </a>
       </td>
-      <td align="center" width="33%" style="padding: 15px; background-color: rgba(77, 150, 255, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="33%" style="padding: 15px; background-color: rgba(77,150,255,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/prize-money.png" width="50" height="50" alt="Second Place">
         <h3>National FinTech Hackathon</h3>
         <p><b>🥈 Top 5 (Cybersecurity)</b></p>
@@ -231,7 +231,7 @@
           <img src="https://img.shields.io/badge/View_Certificate-4D96FF?style=for-the-badge&logo=trophy&logoColor=white" alt="Certificate" />
         </a>
       </td>
-      <td align="center" width="33%" style="padding: 15px; background-color: rgba(107, 203, 119, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="33%" style="padding: 15px; background-color: rgba(107,203,119,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/idea.png" width="50" height="50" alt="Innovation">
         <h3>SmartHack Innovate 2025</h3>
         <p><b>🥉 3rd Place & Innovation Award</b></p>
@@ -247,7 +247,7 @@
   <h3>Additional Achievements</h3>
   <table style="border-collapse: collapse; width: 80%; margin: 0 auto; border: none;">
     <tr>
-      <td align="center" width="50%" style="padding: 15px; background-color: rgba(157, 101, 201, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="50%" style="padding: 15px; background-color: rgba(157,101,201,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/medal.png" width="30" height="30" alt="Medal">
         <b>Bull's Eye Competition Finalist</b>
         <p>Top 7 among 500+ participants, youngest finalist</p>
@@ -255,7 +255,7 @@
           <img src="https://img.shields.io/badge/View_Details-9D65C9?style=for-the-badge&logo=trophy&logoColor=white" alt="Details" />
         </a>
       </td>
-      <td align="center" width="50%" style="padding: 15px; background-color: rgba(255, 132, 0, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="50%" style="padding: 15px; background-color: rgba(255,132,0,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/diploma.png" width="30" height="30" alt="Diploma">
         <b>AlgoUniversity Tech Fellowship</b>
         <p>National finalist, selected among top 5</p>
@@ -265,7 +265,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%" style="padding: 15px; background-color: rgba(27, 152, 245, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="50%" style="padding: 15px; background-color: rgba(27,152,245,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/podium.png" width="30" height="30" alt="Podium">
         <b>IIM Lucknow Udyam Insight</b>
         <p>Top 6 Finalist among thousands</p>
@@ -273,7 +273,7 @@
           <img src="https://img.shields.io/badge/View_Details-1B98F5?style=for-the-badge&logo=trophy&logoColor=white" alt="Details" />
         </a>
       </td>
-      <td align="center" width="50%" style="padding: 15px; background-color: rgba(0, 200, 151, 0.1); border-radius: 10px; margin: 10px; border: none;">
+      <td align="center" width="50%" style="padding: 15px; background-color: rgba(0,200,151,0.1); border-radius: 10px; margin: 10px; border: none;">
         <img src="https://img.icons8.com/fluency/96/000000/conference.png" width="30" height="30" alt="Conference">
         <b>Growth Manager at Maiti Labs</b>
         <p>Reduced carbon footprint by 15% in partner initiatives</p>
@@ -352,7 +352,7 @@
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" style="margin-top: 15px;" />
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake Animation (Corrected URL: Single "raw" usage) -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/vijayshreepathak/vijayshreepathak/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
