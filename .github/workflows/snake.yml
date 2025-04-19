@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Snake Animation and Dynamic Typing SVG
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: vijayshreepathak
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           snake_color: "blue"
           background_color: transparent
+      
+      - name: Generate Dynamic Typing SVG
+        run: |
+          curl -o dist/dynamic-typing.svg "https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&color=00FFFF&center=true&vCenter=true&pause=1000&lines=Hackathon+Champion+Developer;MERN+Stack+Developer;1000%2B+Coding+Problems+Solved;7x+National+Hackathon+Winner;AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion"
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
