@@ -1,9 +1,9 @@
-<h1 align="center">🚀 Hey, I'm Vijayshree Vaibhav 👩‍💻</h1>
-<h3 align="center">7x National Hackathon Winner | Software Engineer | AR Lens Creator | Blockchain Builder</h3>
-
-<p align="center">
+<div align="center">
+  <h1>🚀 Hey, I'm Vijayshree Vaibhav 👩‍💻</h1>
+  <h3>7x National Hackathon Winner | Software Engineer | AR Lens Creator | Blockchain Builder</h3>
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AR+Lens+Wizard+%7C+Snap+Top+0.1%25;Blockchain+Security+Builder+%7C+FinSafeAI;Real-Time+System+Engineer+%7C+C%2B%2B+WebSocket;Creative+Dev+%26+Hackathon+Champion+💡" alt="Typing SVG" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayshreepathak&color=blueviolet&style=for-the-badge" alt="Profile Views" />
