@@ -1,6 +1,9 @@
 <!-- Dynamic and Visually Enhanced GitHub Profile README -->
 
 <!-- Custom Animated Header Banner -->
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Vijayshree%20Vaibhav&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&descSize=25&descAlignY=55&descAlign=center" width="100%" alt="Header Banner"/>
 </p>
